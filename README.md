@@ -71,11 +71,11 @@ Hoolii is an iMessage extension that allows friends to casually schedule meeting
 <details>
     <summary>Hoolii Images</summary>
 
-<img src="./HooliiImages/Set-Meeting-Dates.png" alt="Set-Meeting-Dates" width="130px" style="padding-right:10px;" />
-<img src="./HooliiImages/Filling-Availability.png" alt="Filling-Availability" width="130px" style="padding-right:10px;" />
-<img src="./HooliiImages/View-Availabilities.png" alt="View-Availabilities" width="130px" style="padding-right:10px;" />
-<img src="./HooliiImages/Create-Profile.png" alt="Create-Profile" width="130px" style="padding-right:10px;" />
-<img src="./HooliiImages/Send-Message.png" alt="Send-Message" width="130px" style="padding-right:10px;" />
+<img src="https://raw.githubusercontent.com/canewton/canewton/main/HooliiImages/Set-Meeting-Dates.PNG" alt="Set-Meeting-Dates" width="130px" style="padding-right:10px;" />
+<img src="https://raw.githubusercontent.com/canewton/canewton/main/HooliiImages/Filling-Availability.PNG" alt="Filling-Availability" width="130px" style="padding-right:10px;" />
+<img src="https://raw.githubusercontent.com/canewton/canewton/main/HooliiImages/View-Availabilities.PNG" alt="View-Availabilities" width="130px" style="padding-right:10px;" />
+<img src="https://raw.githubusercontent.com/canewton/canewton/main/HooliiImages/Create-Profile.PNG" alt="Create-Profile" width="130px" style="padding-right:10px;" />
+<img src="https://raw.githubusercontent.com/canewton/canewton/main/HooliiImages/Send-Message.PNG" alt="Send-Message" width="130px" style="padding-right:10px;" />
      
 </details>
 
@@ -115,10 +115,10 @@ cross-platform mobile app for student productivity, organizing photos of notes, 
 <details>
     <summary>SchoolSnaps Images</summary>
 
-<img src="./SchoolSnapsImages/Assignments-Current.png" alt="Assignments-Current" width="130px" style="padding-right:10px;" />
-<img src="./SchoolSnapsImages/Home.png" alt="Home" width="130px" style="padding-right:10px;" />
-<img src="./SchoolSnapsImages/New-Assignment.png" alt="New-Assignment" width="130px" style="padding-right:10px;" />
-<img src="./SchoolSnapsImages/New-Class.png" alt="New-Class" width="130px" style="padding-right:10px;" />
-<img src="./SchoolSnapsImages/New-Note.png" alt="New-Note" width="130px" style="padding-right:10px;" />
+<img src="https://raw.githubusercontent.com/canewton/canewton/main/SchoolSnapsImages/Assignments-Current.PNG" alt="Assignments-Current" width="130px" style="padding-right:10px;" />
+<img src="https://raw.githubusercontent.com/canewton/canewton/main/SchoolSnapsImages/Home.PNG" alt="Home" width="130px" style="padding-right:10px;" />
+<img src="https://raw.githubusercontent.com/canewton/canewton/main/SchoolSnapsImages/New-Assignment.PNG" alt="New-Assignment" width="130px" style="padding-right:10px;" />
+<img src="https://raw.githubusercontent.com/canewton/canewton/main/SchoolSnapsImages/New-Class.PNG" alt="New-Class" width="130px" style="padding-right:10px;" />
+<img src="https://raw.githubusercontent.com/canewton/canewton/main/SchoolSnapsImages/New-Note.PNG" alt="New-Note" width="130px" style="padding-right:10px;" />
      
 </details>
