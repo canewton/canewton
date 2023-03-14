@@ -49,6 +49,10 @@ I am a 2nd-year at UC Davis with five years of coding experience. I get excited 
 
 Hoolii is an iMessage extension that allows friends to casually schedule meetings. I founded Hoolii and assembled a team of software developers and designers to assist in the creation of the app. I led overall project strategy and development. Hoolii is planned to be released on both web and mobile in Spring 2023. The repository is currently private.
 
+LinkedIn: https://www.linkedin.com/company/hooliiapp
+<br/>
+Demo: https://www.youtube.com/watch?v=bcU2ooBY0SU
+
 ### Programming Languages and tools used (Mobile App and Website):
 <img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
 <img align="left" alt="Xcode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
