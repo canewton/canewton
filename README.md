@@ -80,6 +80,8 @@ Demo: https://www.youtube.com/watch?v=bcU2ooBY0SU
 
 As a part of CodeLab, a UC Davis software and design agency, I am the project manager of the CodeLab Training Tool. This project aims to replace the way CodeLab bootcamp material is distributed and presented to club members. The CodeLab training tool is currently in progress and has plans to go live in Summer 2023.
 
+CodeLab club website: https://www.codelabdavis.com/
+
 ### Programming Languages and tools used:
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -95,6 +97,8 @@ As a part of CodeLab, a UC Davis software and design agency, I am the project ma
 
 SchoolSnaps is a personal project that taught me the basics of front-end development. It is an unreleased
 cross-platform mobile app for student productivity, organizing photos of notes, slideshows, and projects.
+
+Repository: https://github.com/canewton/SchoolSnaps
 
 ### Programming Languages and tools used:
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
