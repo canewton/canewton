@@ -47,11 +47,11 @@ I am a computer science and statistics double major with six years of coding exp
 
 ## Hoolii
 
-Hoolii is an iMessage extension that allows friends to casually schedule meetings. I founded Hoolii and assembled a team of software developers and designers to assist in the creation of the app. I led overall project strategy and development. Hoolii is planned to be released on both web and mobile in Spring 2023. The repository is currently private.
+Hoolii is an iMessage extension that allows friends to casually schedule meetings. I founded Hoolii and assembled a team of software developers and designers to assist in the creation of the app. I led overall project strategy and development.
 
-LinkedIn: https://www.linkedin.com/company/hooliiapp
-<br/>
 Demo: https://www.youtube.com/watch?v=bcU2ooBY0SU
+<br/>
+LinkedIn: https://www.linkedin.com/company/hooliiapp
 
 ### Programming Languages and tools used (Mobile App and Website):
 <img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
