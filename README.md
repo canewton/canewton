@@ -1,8 +1,8 @@
 # Caden Newton
 
-**`UC Davis Student Majoring in Computer Science`**
+**`UC Davis Student Majoring in Computer Science and Statistics`**
 
-I am a 2nd-year at UC Davis with five years of coding experience. I get excited about using computer science to creatively bring ideas from raw concepts to reality. I am a self-driven learner who enjoys acquiring new skills, especially through hands-on projects.
+I am a computer science and statistics double major with six years of coding experience and two years of full-stack work experience. My tenacious work ethic and love for learning has consistently made me a standout performer. I am seeking an opportunity that will challenge me to think critically and complement my passion for hands-on software development.
 
 ---
 
