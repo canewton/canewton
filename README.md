@@ -78,8 +78,10 @@ Demo: https://www.youtube.com/watch?v=bcU2ooBY0SU
 
 ## CodeLab Training Tool
 
-As a part of CodeLab, a UC Davis software and design agency, I am the project manager of the CodeLab Training Tool. This project aims to replace the way CodeLab bootcamp material is distributed and presented to club members. The CodeLab training tool is currently in progress and has plans to go live in Summer 2023.
+As a part of CodeLab, a UC Davis software and design agency, I am the project manager of the CodeLab Training Tool. This project aims to replace the way CodeLab bootcamp material is distributed and presented to club members.
 
+Demo: https://www.youtube.com/watch?v=1TJ9pRqtHWs
+<br/>
 CodeLab club website: https://www.codelabdavis.com/
 
 ### Programming Languages and tools used:
