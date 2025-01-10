@@ -2,7 +2,7 @@
 
 **`UC Davis Student Majoring in Computer Science`**
 
-Software engineer with 1 year software internship experience at 3 Fortune 500 companies, 1.5 years web dev experience at UC Davis Watershed Sciences, and 2 deployed mobile apps.
+Software engineer with 1 year software internship experience, 1.5 years web dev experience at UC Davis Watershed Sciences, and a deployed mobile app.
 
 ---
 
@@ -64,3 +64,7 @@ Github Back-end: https://github.com/UCD-GW-Nitrate/npsat_web_backend
 <img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+## Golf Guru
+
+Created mobile app audio player and offline listening features with Flutter SDK to provide auditory golf coaching
