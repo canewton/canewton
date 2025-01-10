@@ -43,6 +43,7 @@ Software engineer with 1 year software internship experience at 3 Fortune 500 co
 Hoolii is an iMessage extension that allows friends to casually schedule meetings. I founded Hoolii and assembled a team of software developers and designers to assist in the creation of the app. I led overall project strategy and development.
 
 App Store Link: https://apps.apple.com/us/app/hoolii/id1663690777
+<br/>
 Github: https://github.com/canewton/Hoolii
 
 ### Programming Languages and tools used (Mobile App and Website):
@@ -57,6 +58,7 @@ Github: https://github.com/canewton/Hoolii
 I developed the entire React and TypeScript front-end and deployed it to a self-hosted Linux server for farm advisors to input farm conditions, run groundwater simulations, and view saved results, advising agriculture nitrate loading. I built data processing and caching systems to dynamically calculate well count and crop area, and chart crop loading.
 
 Github Front-end: https://github.com/UCD-GW-Nitrate/npsat_web_frontend_v3
+<br/>
 Github Back-end: https://github.com/UCD-GW-Nitrate/npsat_web_backend
 
 ### Programming Languages and tools used:
