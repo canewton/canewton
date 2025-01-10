@@ -1,6 +1,6 @@
 # Caden Newton
 
-**`UC Davis Student Majoring in Computer Science and Statistics`**
+**`UC Davis Student Majoring in Computer Science`**
 
 Software engineer with 1 year software internship experience at 3 Fortune 500 companies, 1.5 years web dev experience at UC Davis Watershed Sciences, and 2 deployed mobile apps.
 
