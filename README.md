@@ -52,6 +52,7 @@ Github: https://github.com/canewton/Hoolii
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 <br/>
+<br />
 
 ## UC Davis Harter Lab Groundater Assessment Tool - NPSAT
 
@@ -71,6 +72,7 @@ Github Back-end: https://github.com/UCD-GW-Nitrate/npsat_web_backend
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 <br/>
+<br />
 
 ## CodeLab Training Tool
 
