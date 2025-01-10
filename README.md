@@ -40,7 +40,7 @@ App Store Link: https://apps.apple.com/us/app/hoolii/id1663690777
 <br/>
 Github: https://github.com/canewton/Hoolii
 
-### Programming Languages and tools used (Mobile App and Website):
+### Programming Languages and Tools used:
 <img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
 <img align="left" alt="Xcode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
@@ -56,7 +56,7 @@ Github Front-end: https://github.com/UCD-GW-Nitrate/npsat_web_frontend_v3
 <br/>
 Github Back-end: https://github.com/UCD-GW-Nitrate/npsat_web_backend
 
-### Programming Languages and tools used:
+### Programming Languages and Tools used:
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -76,7 +76,7 @@ Demo: https://www.youtube.com/watch?v=1TJ9pRqtHWs
 <br/>
 CodeLab Org Website: https://www.codelabdavis.com/
 
-### Programming Languages and tools used:
+### Programming Languages and Tools used:
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
