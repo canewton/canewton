@@ -40,6 +40,8 @@ Accomplishments:
 Github: https://github.com/canewton/usdc-for-ai-inference
 <br/>
 Link: https://usdc-for-ai-inference.vercel.app 
+<br/>
+Demo: https://www.youtube.com/watch?v=XelzqrSEO8U
 
 ### Programming Languages and Tools used:
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
